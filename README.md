@@ -1,4 +1,4 @@
-<img src="http://modding.kalam-alami.net/site/img/invtweaks.png" />
+<img src="https://raw.github.com/mkalam-alami/inventory-tweaks/develop/docs/_static/img/invtweaks.png" />
 
 * Matching Minecraft version: **1.4.6**
 
